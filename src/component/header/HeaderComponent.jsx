@@ -9,7 +9,7 @@ class HeaderComponent extends React.Component{
                  <div class="header_section_container">
                      <span class="section_title">Work Experience</span>
                      <span class="section_title">About Me</span>
-                     <span class="section_title">Contact</span>
+                     <span class="section_title">Contect With Me</span>
                  </div>
 
              </div>
