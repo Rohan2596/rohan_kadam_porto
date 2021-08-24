@@ -8,7 +8,7 @@ import ContactComponent from './component/body/contact';
 function App() {
   return (
     <div className="App">
-      <HeaderComponent />
+      <HeaderComponent  />
       <HomeComponent/>
       <AboutComponent/>
       <ContactComponent/>

@@ -13,7 +13,9 @@ class HomeComponent extends React.Component{
                       
                     </div>
                     <div class="home_image_container">
+                         {/* <div class="image_circle">
 
+                         </div> */}
                     </div>
                  
                  </div>
@@ -21,7 +23,10 @@ class HomeComponent extends React.Component{
                         I,m Full Stack Developer from Mumbai,India.
 
                     </div>
-                
+                    <div class="arrow_icon">
+                         <div class="left_arrow"></div>
+                         <div class="right_arrow"></div>
+                    </div>
              </div>
 
         );
