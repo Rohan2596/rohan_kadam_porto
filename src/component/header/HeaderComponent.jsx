@@ -6,11 +6,11 @@ class HeaderComponent extends React.Component{
         return(
              <div class="header_container">
                  <div class="header_name_container">Rohan Kadam</div> 
-                 <div class="header_section_container">
+                 {/* <div class="header_section_container">
                      <span class="section_title">Work Experience</span>
                      <span class="section_title">About Me</span>
                      <span class="section_title">Contect With Me</span>
-                 </div>
+                 </div> */}
 
              </div>
 

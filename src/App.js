@@ -6,12 +6,13 @@ import AboutComponent from './component/body/about';
 import ContactComponent from './component/body/contact';
 
 function App() {
+  
   return (
     <div className="App">
-      <HeaderComponent  />
-      <HomeComponent/>
-      <AboutComponent/>
-      <ContactComponent/>
+      <HeaderComponent   />
+      <HomeComponent href="#" id="homeComponent"/>
+      <AboutComponent href="#" id="aboutComponent"/>
+      <ContactComponent href="#" id="contectComponent"/>
     </div>
   );
 }
