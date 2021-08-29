@@ -1,6 +1,6 @@
 import React from "react";
 import '../../style/component.css'
-
+import rohanImage from '../../images/rohankadam.png'
 class HomeComponent extends React.Component{
 
     render(){
@@ -13,9 +13,7 @@ class HomeComponent extends React.Component{
                       
                     </div>
                     <div class="home_image_container">
-                         {/* <div class="image_circle">
-
-                         </div> */}
+                        <img src={rohanImage} alt="" class="image_circle" />
                     </div>
                  
                  </div>
