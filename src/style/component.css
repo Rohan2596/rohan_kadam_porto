@@ -7,6 +7,7 @@
       position: fixed;
       top: 0;
       background-color: white;
+      box-shadow: 0px 0px 0px 5px dimgray;
       
 }
 .header_name_container{
@@ -14,6 +15,7 @@
     font-family:'Poppins',sans-serif;
     font-size: x-large;
     font-weight: 600;
+    
     
 }
 .header_section_container{
@@ -115,19 +117,19 @@
 
 .about_container{
     width: 100%;
-    height: 100vh;
+    height: 110vh;
     display: flex;
     flex-direction: row;
 }
 .about_title_section{
     width: 50%;
-    height: 100vh;
+    height: 110vh;
     display: flex;
     flex-direction: row;
 }
 .about_description_section{
     width: 40%;
-    height: 100vh;
+    height: 110vh;
     display: flex;
     flex-direction: row;
 
@@ -142,6 +144,33 @@
     font-size: 20px;
     font-weight: 500;
     color: #1a00d9;
+}
+
+.contact_link{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px ;
+    margin-left: 10px;
+}
+.contact_description{
+    font-family:'Poppins',sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    
+
+}
+.contact_description:hover{
+    font-family:'Poppins',sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #1a00d9;
+    text-decoration: underline;
+    cursor: pointer;
 }
 .arrow_icon{
    width: 100%;
