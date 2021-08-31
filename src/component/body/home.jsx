@@ -18,7 +18,7 @@ class HomeComponent extends React.Component{
                  
                  </div>
                  <div  class="home_description">
-                        I,m Full Stack Developer from Mumbai,India.
+                        I,m Full-Stack Developer from Mumbai,India.
 
                     </div>
                     <div class="arrow_icon">
