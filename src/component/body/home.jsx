@@ -5,25 +5,25 @@ class HomeComponent extends React.Component{
 
     render(){
         return(
-             <div class="home_container">
-                <div class="home_titleImage_container">
-                    <div class="home_title_container">
-                       <span class="home_heading_1">Namaskar,my name</span>
-                       <span class="home_heading_2">Rohan Kadam</span>
+             <div className="home_container">
+                <div className="home_titleImage_container">
+                    <div className="home_title_container">
+                       <span className="home_heading_1">Namaskar,my name</span>
+                       <span className="home_heading_2">Rohan Kadam</span>
                       
                     </div>
-                    <div class="home_image_container">
-                        <img src={rohanImage} alt="" class="image_circle" />
+                    <div className="home_image_container">
+                        <img src={rohanImage} alt="" className="image_circle" />
                     </div>
                  
                  </div>
-                 <div  class="home_description">
+                 <div  className="home_description">
                         I,m Full-Stack Developer from Mumbai,India.
 
                     </div>
-                    <div class="arrow_icon">
-                         <div class="left_arrow"></div>
-                         <div class="right_arrow"></div>
+                    <div className="arrow_icon">
+                         <div className="left_arrow"></div>
+                         <div className="right_arrow"></div>
                     </div>
              </div>
 
