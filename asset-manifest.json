@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rohan_kadam_porto/static/css/main.8202113a.chunk.css",
-    "main.js": "/rohan_kadam_porto/static/js/main.656b4658.chunk.js",
-    "main.js.map": "/rohan_kadam_porto/static/js/main.656b4658.chunk.js.map",
+    "main.css": "/rohan_kadam_porto/static/css/main.1b97f7d9.chunk.css",
+    "main.js": "/rohan_kadam_porto/static/js/main.159263c6.chunk.js",
+    "main.js.map": "/rohan_kadam_porto/static/js/main.159263c6.chunk.js.map",
     "runtime-main.js": "/rohan_kadam_porto/static/js/runtime-main.2b89dab7.js",
     "runtime-main.js.map": "/rohan_kadam_porto/static/js/runtime-main.2b89dab7.js.map",
     "static/js/2.14d5e62b.chunk.js": "/rohan_kadam_porto/static/js/2.14d5e62b.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.41aa1024.chunk.js": "/rohan_kadam_porto/static/js/3.41aa1024.chunk.js",
     "static/js/3.41aa1024.chunk.js.map": "/rohan_kadam_porto/static/js/3.41aa1024.chunk.js.map",
     "index.html": "/rohan_kadam_porto/index.html",
-    "static/css/main.8202113a.chunk.css.map": "/rohan_kadam_porto/static/css/main.8202113a.chunk.css.map",
+    "static/css/main.1b97f7d9.chunk.css.map": "/rohan_kadam_porto/static/css/main.1b97f7d9.chunk.css.map",
     "static/js/2.14d5e62b.chunk.js.LICENSE.txt": "/rohan_kadam_porto/static/js/2.14d5e62b.chunk.js.LICENSE.txt",
     "static/media/rohankadam.d74fb980.png": "/rohan_kadam_porto/static/media/rohankadam.d74fb980.png"
   },
   "entrypoints": [
     "static/js/runtime-main.2b89dab7.js",
     "static/js/2.14d5e62b.chunk.js",
-    "static/css/main.8202113a.chunk.css",
-    "static/js/main.656b4658.chunk.js"
+    "static/css/main.1b97f7d9.chunk.css",
+    "static/js/main.159263c6.chunk.js"
   ]
 }
